@@ -1,4 +1,4 @@
-package com.bilgeadam.withoutcdi_di;
+package com.bilgeadam.a0.without_ioc_di;
 
 public class Java17 {
 	
